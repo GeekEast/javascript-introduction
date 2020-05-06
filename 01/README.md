@@ -88,7 +88,7 @@ true && false
 !true
 ```
 
-- Coerion
+### Coerion
 ```javascript
 // number to string
 String(1)
